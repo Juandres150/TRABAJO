@@ -4,5 +4,5 @@ Rails.application.routes.draw do
   get 'nosotros', to: 'nosotros#cargar'
   get 'caracteristicas', to: 'caracteristicas#cosas'
   get 'galeria', to: 'galeria#imagen'
-  get 'contactenos', to: 'contactenos#contact'
+  
 end
